@@ -1,0 +1,59 @@
+= RedisBucket
+
+ RedisBucket is a gem that acts as an api engine which mounts automattically into the rails application on installation.
+ This gem is used to access basic redis methods such as storing data as key-value pairs, fetching the specified key's value, deleting the specified key's value or getting all the keys from the redis.
+
+== Installation
+
+=== The master branch supports versions >= Rails 3
+
+Add the gem to the gemfile:
+  	gem "redis_bucket", :git => 'https://github.com/qburstruby/redis_bucket.git'
+  	
+Mount the redis_bucket engine onto your rails app:
+  	rails g mount_engine engine
+
+== Usage
+
+rake routes in your rails application specifies these routes:
+
+	Routes for RedisBucket::Engine:
+	    store_redis_data POST   	/redis_data/store(.:format)    redis_bucket/redis_data#store
+	    fetch_redis_data POST   	/redis_data/fetch(.:format)    redis_bucket/redis_data#fetch
+	    remove_redis_data POST   	/redis_data/remove(.:format)   redis_bucket/redis_data#remove
+		getallkeys_redis_data POST  /redis_data/get_keys(.:format) redis_bucket/redis_data#get_keys	
+	
+	e.g.
+	localhost:3000/redis_bucket/redis_data/get_keys
+	returns the json value with all the redis key details.
+
+	The json format of the result for above api calls is:
+		{ :response => "success",
+		  :status => 200,
+	  	  :info => "Successfully retrieved all keys",                      
+	   	  :data => 'data from the redis'}
+
+== Comments/Requests
+
+If anyone has comments or questions please let me know (qbruby@qburst.com).
+If you have updates or patches or want to contribute I would love to see what you have or want to add.
+
+
+== Note on Patches/Pull Requests
+
+* Fork the project.
+* Make your feature addition or bug fix.
+* Add tests for it. This is important so I don't break it in a future version unintentionally (redis_bucket uses Redis and Sqlite3.)
+* Send me a pull request. Bonus points for topic branches.
+
+
+== Contributers
+
+This list is open to all. You are all welcome :).
+
+* manishaharidas (Manisha Haridas) - 
+  * Github: https://github.com/manishaharidas
+
+
+Copyright (c) 2013 QBurst(qbruby@qburst.com). See LICENSE.txt for
+further details.

@@ -1,0 +1,1205 @@
+  [1m[36m (0.9ms)[0m  [1mbegin transaction[0m
+-------------------------------------------
+RedisBucketTest: test_redis_data_controller
+-------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------
+RedisBucket::RedisBucketTest: test_post_store_data
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+RedisBucketTest: test_post_store_data
+-------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+---------------------------------------------
+RedisDataControllerTest: test_post_store_data
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisBucketTest: test_ProductHelper
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisBucketTest: test_ProductHelper
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisBucketTest: test_ProductHelper
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisBucketTest: test_ProductHelper
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisBucketTest: test_ProductHelper
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisBucketTest: test_ProductHelper
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+---------------------
+RedisBucketTest: test
+---------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+---------------------
+RedisBucketTest: test
+---------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+---------------------
+RedisBucketTest: test
+---------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+---------------------
+RedisBucketTest: test
+---------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+---------------------------------------------
+RedisBucketTest: test_setup_block_yields_self
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.9ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (19.3ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+RedisBucket::RedisBucketTest: test_responds_to_simple_post_request
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+RedisBucket::RedisBucketTest: test_truth
+----------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (23.8ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+RedisBucketTest: test_responds_to_simple_post_request
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+---------------------------
+RedisBucketTest: test_truth
+---------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (22.5ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.9ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------
+RedisDataControllerTest: test_responds_to_simple_post_request
+-------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+RedisDataControllerTest: test_truth
+-----------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
